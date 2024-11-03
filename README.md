@@ -1,7 +1,8 @@
 # sistema-irrigacao
-Sistema de irrigação automática
+Sistema de irrigação automática para um trabalho de extensão da Universidade Estácio
+Matéria Programação de Microcontroladores
 
-Itens utilizados
+Itens utilizados no projeto
 1 Arduino Uno.
 1 mini bomba d'água.
 1 sensor de umidade de solo.
